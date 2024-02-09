@@ -27,4 +27,4 @@ This is a web application designed for Pokémon enthusiasts. It allows users to 
 
 ## Deployment 
 
-[PokemonInfoFinder](https://mikenavarrete.github.io/Project1/ "Deployed Link")
+[PokemonInfoFinderLink](https://mikenavarrete.github.io/Project1/ "Deployed Link")
