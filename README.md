@@ -25,4 +25,6 @@ This is a web application designed for Pokémon enthusiasts. It allows users to 
 - **JavaScript**: For creating dynamic and interactive user experiences.
 - **[API]**: For fetching Pokémon information and GIFs.
 
-.
+## Deployment 
+
+[PokemonInfoFinder](https://mikenavarrete.github.io/Project1/ "Deployed Link")
